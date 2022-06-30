@@ -1,0 +1,3581 @@
+[{
+    "id":"150136",
+    "name":"Ball State University",
+    "parent_id":"0"
+    },
+    {
+    "id":"144740",
+    "name":"Depaul University",
+    "parent_id":"0"
+    },
+    {
+    "id":"148496",
+    "name":"Dominican University",
+    "parent_id":"0"
+    },
+    {
+    "id":"144962",
+    "name":"Elmhurst College",
+    "parent_id":"0"
+    },
+    {
+    "id":"145725",
+    "name":"Illinois Institute Of Technology",
+    "parent_id":"0"
+    },
+    {
+    "id":"145813",
+    "name":"Illinois State University",
+    "parent_id":"0"
+    },
+    {
+    "id":"145646",
+    "name":"Illinois Wesleyan University",
+    "parent_id":"0"
+    },
+    {
+    "id":"146339",
+    "name":"Judson University",
+    "parent_id":"0"
+    },
+    {
+    "id":"146719",
+    "name":"Loyola University Chicago",
+    "parent_id":"0"
+    },
+    {
+    "id":"239105",
+    "name":"Marquette University",
+    "parent_id":"0"
+    },
+    {
+    "id":"171100",
+    "name":"Michigan State University",
+    "parent_id":"0"
+    },
+    {
+    "id":"199193",
+    "name":"North Carolina State University At Raleigh",
+    "parent_id":"0"
+    },
+    {
+    "id":"147767",
+    "name":"Northwestern University",
+    "parent_id":"0"
+    },
+    {
+    "id":"243780",
+    "name":"Purdue University",
+    "parent_id":"0"
+    },
+    {
+    "id":"148487",
+    "name":"Roosevelt University",
+    "parent_id":"0"
+    },
+    {
+    "id":"144050",
+    "name":"University Of Chicago",
+    "parent_id":"0"
+    },
+    {
+    "id":"145600",
+    "name":"University Of Illinois At Chicago",
+    "parent_id":"0"
+    },
+    {
+    "id":"148654",
+    "name":"University Of Illinois At Springfield",
+    "parent_id":"0"
+    },
+    {
+    "id":"145637",
+    "name":"University Of Illinois At Urbana-Champaign",
+    "parent_id":"0"
+    },
+    {
+    "id":"170976",
+    "name":"University Of Michigan-Ann Arbor",
+    "parent_id":"0"
+    },
+    {
+    "id":"240444",
+    "name":"University Of Wisconsin-Madison",
+    "parent_id":"0"
+    },
+    {
+    "id":"240462",
+    "name":"University Of Wisconsin-Platteville",
+    "parent_id":"0"
+    },
+    {
+    "id":"152600",
+    "name":"Valparaiso University",
+    "parent_id":"0"
+    },
+    {
+    "id":"0301",
+    "name":"Natural Resources Conservation and Research",
+    "parent_id":"150136"
+    },
+    {
+    "id":"0402",
+    "name":"Architecture",
+    "parent_id":"150136"
+    },
+    {
+    "id":"0406",
+    "name":"Landscape Architecture",
+    "parent_id":"150136"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"150136"
+    },
+    {
+    "id":"0904",
+    "name":"Journalism",
+    "parent_id":"150136"
+    },
+    {
+    "id":"0907",
+    "name":"Radio, Television, and Digital Communication",
+    "parent_id":"150136"
+    },
+    {
+    "id":"0909",
+    "name":"Public Relations, Advertising, and Applied Communication",
+    "parent_id":"150136"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"150136"
+    },
+    {
+    "id":"1310",
+    "name":"Special Education and Teaching",
+    "parent_id":"150136"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"150136"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"150136"
+    },
+    {
+    "id":"1506",
+    "name":"Industrial Production Technologies/Technicians",
+    "parent_id":"150136"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"150136"
+    },
+    {
+    "id":"1901",
+    "name":"Family and Consumer Sciences/Human Sciences, General",
+    "parent_id":"150136"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"150136"
+    },
+    {
+    "id":"2401",
+    "name":"Liberal Arts and Sciences, General Studies and Humanities",
+    "parent_id":"150136"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"150136"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"150136"
+    },
+    {
+    "id":"4005",
+    "name":"Chemistry",
+    "parent_id":"150136"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"150136"
+    },
+    {
+    "id":"4301",
+    "name":"Criminal Justice and Corrections",
+    "parent_id":"150136"
+    },
+    {
+    "id":"4407",
+    "name":"Social Work",
+    "parent_id":"150136"
+    },
+    {
+    "id":"4501",
+    "name":"Social Sciences, General",
+    "parent_id":"150136"
+    },
+    {
+    "id":"4507",
+    "name":"Geography and Cartography",
+    "parent_id":"150136"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"150136"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5005",
+    "name":"Drama/Theatre Arts and Stagecraft",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5007",
+    "name":"Fine and Studio Arts",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5009",
+    "name":"Music",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5111",
+    "name":"Health/Medical Preparatory Programs",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5201",
+    "name":"Business/Commerce, General",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5206",
+    "name":"Business/Managerial Economics",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5210",
+    "name":"Human Resources Management and Services",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5212",
+    "name":"Management Information Systems and Services",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5213",
+    "name":"Management Sciences and Quantitative Methods",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"150136"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"150136"
+    },
+    {
+    "id":"0301",
+    "name":"Natural Resources Conservation and Research",
+    "parent_id":"144740"
+    },
+    {
+    "id":"0501",
+    "name":"Area Studies",
+    "parent_id":"144740"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"144740"
+    },
+    {
+    "id":"0904",
+    "name":"Journalism",
+    "parent_id":"144740"
+    },
+    {
+    "id":"0909",
+    "name":"Public Relations, Advertising, and Applied Communication",
+    "parent_id":"144740"
+    },
+    {
+    "id":"1003",
+    "name":"Graphic Communications",
+    "parent_id":"144740"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"144740"
+    },
+    {
+    "id":"1102",
+    "name":"Computer Programming",
+    "parent_id":"144740"
+    },
+    {
+    "id":"1104",
+    "name":"Information Science/Studies",
+    "parent_id":"144740"
+    },
+    {
+    "id":"1109",
+    "name":"Computer Systems Networking and Telecommunications",
+    "parent_id":"144740"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"144740"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"144740"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"144740"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"144740"
+    },
+    {
+    "id":"2401",
+    "name":"Liberal Arts and Sciences, General Studies and Humanities",
+    "parent_id":"144740"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"144740"
+    },
+    {
+    "id":"3801",
+    "name":"Philosophy",
+    "parent_id":"144740"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"144740"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"144740"
+    },
+    {
+    "id":"4509",
+    "name":"International Relations and National Security Studies",
+    "parent_id":"144740"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"144740"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5004",
+    "name":"Design and Applied Arts",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5005",
+    "name":"Drama/Theatre Arts and Stagecraft",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5006",
+    "name":"Film/Video and Photographic Arts",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5009",
+    "name":"Music",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5100",
+    "name":"Health Services/Allied Health/Health Sciences, General",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5206",
+    "name":"Business/Managerial Economics",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5209",
+    "name":"Hospitality Administration/Management",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5212",
+    "name":"Management Information Systems and Services",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5213",
+    "name":"Management Sciences and Quantitative Methods",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5215",
+    "name":"Real Estate",
+    "parent_id":"144740"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"144740"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"148496"
+    },
+    {
+    "id":"3018",
+    "name":"Natural Sciences",
+    "parent_id":"148496"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"148496"
+    },
+    {
+    "id":"4504",
+    "name":"Criminology",
+    "parent_id":"148496"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"148496"
+    },
+    {
+    "id":"5004",
+    "name":"Design and Applied Arts",
+    "parent_id":"148496"
+    },
+    {
+    "id":"5131",
+    "name":"Dietetics and Clinical Nutrition Services",
+    "parent_id":"148496"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"148496"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"148496"
+    },
+    {
+    "id":"5219",
+    "name":"Specialized Sales, Merchandising and  Marketing Operations",
+    "parent_id":"148496"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"144962"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"144962"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"144962"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"144962"
+    },
+    {
+    "id":"2313",
+    "name":"Rhetoric and Composition/Writing Studies",
+    "parent_id":"144962"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"144962"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"144962"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"144962"
+    },
+    {
+    "id":"4301",
+    "name":"Criminal Justice and Corrections",
+    "parent_id":"144962"
+    },
+    {
+    "id":"5009",
+    "name":"Music",
+    "parent_id":"144962"
+    },
+    {
+    "id":"5010",
+    "name":"Arts, Entertainment,and Media Management",
+    "parent_id":"144962"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"144962"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"144962"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"144962"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"144962"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"144962"
+    },
+    {
+    "id":"0402",
+    "name":"Architecture",
+    "parent_id":"145725"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"145725"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"145725"
+    },
+    {
+    "id":"1402",
+    "name":"Aerospace, Aeronautical and Astronautical Engineering",
+    "parent_id":"145725"
+    },
+    {
+    "id":"1404",
+    "name":"Architectural Engineering",
+    "parent_id":"145725"
+    },
+    {
+    "id":"1407",
+    "name":"Chemical Engineering",
+    "parent_id":"145725"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"145725"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"145725"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"145725"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"145725"
+    },
+    {
+    "id":"0100",
+    "name":"Agriculture, General",
+    "parent_id":"145813"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"145813"
+    },
+    {
+    "id":"0904",
+    "name":"Journalism",
+    "parent_id":"145813"
+    },
+    {
+    "id":"0909",
+    "name":"Public Relations, Advertising, and Applied Communication",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1003",
+    "name":"Graphic Communications",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1310",
+    "name":"Special Education and Teaching",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1505",
+    "name":"Environmental Control Technologies/Technicians",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1506",
+    "name":"Industrial Production Technologies/Technicians",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"145813"
+    },
+    {
+    "id":"1901",
+    "name":"Family and Consumer Sciences/Human Sciences, General",
+    "parent_id":"145813"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"145813"
+    },
+    {
+    "id":"2401",
+    "name":"Liberal Arts and Sciences, General Studies and Humanities",
+    "parent_id":"145813"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"145813"
+    },
+    {
+    "id":"2701",
+    "name":"Mathematics",
+    "parent_id":"145813"
+    },
+    {
+    "id":"3103",
+    "name":"Parks, Recreation and Leisure Facilities Management",
+    "parent_id":"145813"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"145813"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"145813"
+    },
+    {
+    "id":"4301",
+    "name":"Criminal Justice and Corrections",
+    "parent_id":"145813"
+    },
+    {
+    "id":"4407",
+    "name":"Social Work",
+    "parent_id":"145813"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"145813"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"145813"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5005",
+    "name":"Drama/Theatre Arts and Stagecraft",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5007",
+    "name":"Fine and Studio Arts",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5009",
+    "name":"Music",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5099",
+    "name":"Visual and Performing Arts, Other",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5107",
+    "name":"Health and Medical Administrative Services",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5110",
+    "name":"Clinical/Medical Laboratory Science/Research and Allied Professions",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5211",
+    "name":"International Business",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5212",
+    "name":"Management Information Systems and Services",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5213",
+    "name":"Management Sciences and Quantitative Methods",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5217",
+    "name":"Insurance",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5220",
+    "name":"Construction Management",
+    "parent_id":"145813"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"145813"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"145646"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"145646"
+    },
+    {
+    "id":"5005",
+    "name":"Drama/Theatre Arts and Stagecraft",
+    "parent_id":"145646"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"145646"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"145646"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"145646"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"145646"
+    },
+    {
+    "id":"4400",
+    "name":"Human Services, General",
+    "parent_id":"146339"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"146339"
+    },
+    {
+    "id":"0301",
+    "name":"Natural Resources Conservation and Research",
+    "parent_id":"146719"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"146719"
+    },
+    {
+    "id":"0904",
+    "name":"Journalism",
+    "parent_id":"146719"
+    },
+    {
+    "id":"0909",
+    "name":"Public Relations, Advertising, and Applied Communication",
+    "parent_id":"146719"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"146719"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"146719"
+    },
+    {
+    "id":"2602",
+    "name":"Biochemistry, Biophysics and Molecular Biology",
+    "parent_id":"146719"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"146719"
+    },
+    {
+    "id":"4301",
+    "name":"Criminal Justice and Corrections",
+    "parent_id":"146719"
+    },
+    {
+    "id":"4509",
+    "name":"International Relations and National Security Studies",
+    "parent_id":"146719"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"146719"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"146719"
+    },
+    {
+    "id":"5107",
+    "name":"Health and Medical Administrative Services",
+    "parent_id":"146719"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"146719"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"146719"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"146719"
+    },
+    {
+    "id":"5206",
+    "name":"Business/Managerial Economics",
+    "parent_id":"146719"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"146719"
+    },
+    {
+    "id":"5212",
+    "name":"Management Information Systems and Services",
+    "parent_id":"146719"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"146719"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"239105"
+    },
+    {
+    "id":"0904",
+    "name":"Journalism",
+    "parent_id":"239105"
+    },
+    {
+    "id":"0907",
+    "name":"Radio, Television, and Digital Communication",
+    "parent_id":"239105"
+    },
+    {
+    "id":"0909",
+    "name":"Public Relations, Advertising, and Applied Communication",
+    "parent_id":"239105"
+    },
+    {
+    "id":"0999",
+    "name":"Communication, Journalism, and Related Programs, Other",
+    "parent_id":"239105"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"239105"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"239105"
+    },
+    {
+    "id":"1405",
+    "name":"Biomedical/Medical Engineering",
+    "parent_id":"239105"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"239105"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"239105"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"239105"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"239105"
+    },
+    {
+    "id":"1433",
+    "name":"Construction Engineering",
+    "parent_id":"239105"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"239105"
+    },
+    {
+    "id":"2313",
+    "name":"Rhetoric and Composition/Writing Studies",
+    "parent_id":"239105"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"239105"
+    },
+    {
+    "id":"2701",
+    "name":"Mathematics",
+    "parent_id":"239105"
+    },
+    {
+    "id":"3099",
+    "name":"Multi/Interdisciplinary Studies, Other",
+    "parent_id":"239105"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"239105"
+    },
+    {
+    "id":"4407",
+    "name":"Social Work",
+    "parent_id":"239105"
+    },
+    {
+    "id":"4504",
+    "name":"Criminology",
+    "parent_id":"239105"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"239105"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"239105"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5110",
+    "name":"Clinical/Medical Laboratory Science/Research and Allied Professions",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5206",
+    "name":"Business/Managerial Economics",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5210",
+    "name":"Human Resources Management and Services",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5211",
+    "name":"International Business",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5215",
+    "name":"Real Estate",
+    "parent_id":"239105"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"239105"
+    },
+    {
+    "id":"0101",
+    "name":"Agricultural Business and Management",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0109",
+    "name":"Animal Sciences",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0110",
+    "name":"Food Science and Technology",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0111",
+    "name":"Plant Sciences",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0112",
+    "name":"Soil Sciences",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0301",
+    "name":"Natural Resources Conservation and Research",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0306",
+    "name":"Wildlife and Wildlands Science and Management",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0904",
+    "name":"Journalism",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0909",
+    "name":"Public Relations, Advertising, and Applied Communication",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1301",
+    "name":"Education, General",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1310",
+    "name":"Special Education and Teaching",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1401",
+    "name":"Engineering, General",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1407",
+    "name":"Chemical Engineering",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1418",
+    "name":"Materials Engineering",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1510",
+    "name":"Construction Engineering Technologies",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1515",
+    "name":"Engineering-Related Fields",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1603",
+    "name":"East Asian Languages, Literatures, and Linguistics",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"171100"
+    },
+    {
+    "id":"1907",
+    "name":"Human Development, Family Studies, and Related Services",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2200",
+    "name":"Non-Professional General Legal Studies",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2313",
+    "name":"Rhetoric and Composition/Writing Studies",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2401",
+    "name":"Liberal Arts and Sciences, General Studies and Humanities",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2602",
+    "name":"Biochemistry, Biophysics and Molecular Biology",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2605",
+    "name":"Microbiological Sciences and Immunology",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2607",
+    "name":"Zoology/Animal Biology",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2608",
+    "name":"Genetics",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2609",
+    "name":"Physiology, Pathology and Related Sciences",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2613",
+    "name":"Ecology, Evolution, Systematics, and Population Biology",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2615",
+    "name":"Neurobiology and Neurosciences",
+    "parent_id":"171100"
+    },
+    {
+    "id":"2701",
+    "name":"Mathematics",
+    "parent_id":"171100"
+    },
+    {
+    "id":"3019",
+    "name":"Nutrition Sciences",
+    "parent_id":"171100"
+    },
+    {
+    "id":"3020",
+    "name":"International/Global Studies",
+    "parent_id":"171100"
+    },
+    {
+    "id":"3099",
+    "name":"Multi/Interdisciplinary Studies, Other",
+    "parent_id":"171100"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4005",
+    "name":"Chemistry",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4006",
+    "name":"Geological and Earth Sciences/Geosciences",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4008",
+    "name":"Physics",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4301",
+    "name":"Criminal Justice and Corrections",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4407",
+    "name":"Social Work",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4501",
+    "name":"Social Sciences, General",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4502",
+    "name":"Anthropology",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4507",
+    "name":"Geography and Cartography",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4509",
+    "name":"International Relations and National Security Studies",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"171100"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5004",
+    "name":"Design and Applied Arts",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5005",
+    "name":"Drama/Theatre Arts and Stagecraft",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5007",
+    "name":"Fine and Studio Arts",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5009",
+    "name":"Music",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5108",
+    "name":"Allied Health and Medical Assisting Services",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5110",
+    "name":"Clinical/Medical Laboratory Science/Research and Allied Professions",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5131",
+    "name":"Dietetics and Clinical Nutrition Services",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5209",
+    "name":"Hospitality Administration/Management",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5210",
+    "name":"Human Resources Management and Services",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5213",
+    "name":"Management Sciences and Quantitative Methods",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"171100"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"171100"
+    },
+    {
+    "id":"0101",
+    "name":"Agricultural Business and Management",
+    "parent_id":"199193"
+    },
+    {
+    "id":"0109",
+    "name":"Animal Sciences",
+    "parent_id":"199193"
+    },
+    {
+    "id":"0301",
+    "name":"Natural Resources Conservation and Research",
+    "parent_id":"199193"
+    },
+    {
+    "id":"0305",
+    "name":"Forestry",
+    "parent_id":"199193"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1402",
+    "name":"Aerospace, Aeronautical and Astronautical Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1403",
+    "name":"Agricultural Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1405",
+    "name":"Biomedical/Medical Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1407",
+    "name":"Chemical Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1428",
+    "name":"Textile Sciences and Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1435",
+    "name":"Industrial Engineering",
+    "parent_id":"199193"
+    },
+    {
+    "id":"1505",
+    "name":"Environmental Control Technologies/Technicians",
+    "parent_id":"199193"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"199193"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"199193"
+    },
+    {
+    "id":"2602",
+    "name":"Biochemistry, Biophysics and Molecular Biology",
+    "parent_id":"199193"
+    },
+    {
+    "id":"2607",
+    "name":"Zoology/Animal Biology",
+    "parent_id":"199193"
+    },
+    {
+    "id":"3015",
+    "name":"Science, Technology and Society",
+    "parent_id":"199193"
+    },
+    {
+    "id":"3019",
+    "name":"Nutrition Sciences",
+    "parent_id":"199193"
+    },
+    {
+    "id":"3103",
+    "name":"Parks, Recreation and Leisure Facilities Management",
+    "parent_id":"199193"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"199193"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"199193"
+    },
+    {
+    "id":"4504",
+    "name":"Criminology",
+    "parent_id":"199193"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"199193"
+    },
+    {
+    "id":"5004",
+    "name":"Design and Applied Arts",
+    "parent_id":"199193"
+    },
+    {
+    "id":"5010",
+    "name":"Arts, Entertainment,and Media Management",
+    "parent_id":"199193"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"199193"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"199193"
+    },
+    {
+    "id":"5206",
+    "name":"Business/Managerial Economics",
+    "parent_id":"199193"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"147767"
+    },
+    {
+    "id":"0904",
+    "name":"Journalism",
+    "parent_id":"147767"
+    },
+    {
+    "id":"0907",
+    "name":"Radio, Television, and Digital Communication",
+    "parent_id":"147767"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"147767"
+    },
+    {
+    "id":"1407",
+    "name":"Chemical Engineering",
+    "parent_id":"147767"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"147767"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"147767"
+    },
+    {
+    "id":"1435",
+    "name":"Industrial Engineering",
+    "parent_id":"147767"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"147767"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"147767"
+    },
+    {
+    "id":"2701",
+    "name":"Mathematics",
+    "parent_id":"147767"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"147767"
+    },
+    {
+    "id":"4402",
+    "name":"Community Organization and Advocacy",
+    "parent_id":"147767"
+    },
+    {
+    "id":"4405",
+    "name":"Public Policy Analysis",
+    "parent_id":"147767"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"147767"
+    },
+    {
+    "id":"4509",
+    "name":"International Relations and National Security Studies",
+    "parent_id":"147767"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"147767"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"147767"
+    },
+    {
+    "id":"5005",
+    "name":"Drama/Theatre Arts and Stagecraft",
+    "parent_id":"147767"
+    },
+    {
+    "id":"5009",
+    "name":"Music",
+    "parent_id":"147767"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"147767"
+    },
+    {
+    "id":"0101",
+    "name":"Agricultural Business and Management",
+    "parent_id":"243780"
+    },
+    {
+    "id":"0102",
+    "name":"Agricultural Mechanization",
+    "parent_id":"243780"
+    },
+    {
+    "id":"0109",
+    "name":"Animal Sciences",
+    "parent_id":"243780"
+    },
+    {
+    "id":"0303",
+    "name":"Fishing and Fisheries Sciences and Management",
+    "parent_id":"243780"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1108",
+    "name":"Computer Software and Media Applications",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1402",
+    "name":"Aerospace, Aeronautical and Astronautical Engineering",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1403",
+    "name":"Agricultural Engineering",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1405",
+    "name":"Biomedical/Medical Engineering",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1407",
+    "name":"Chemical Engineering",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1435",
+    "name":"Industrial Engineering",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1500",
+    "name":"Engineering Technology, General",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1501",
+    "name":"Architectural Engineering Technologies/Technicians",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1503",
+    "name":"Electrical Engineering Technologies/Technicians",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1506",
+    "name":"Industrial Production Technologies/Technicians",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1508",
+    "name":"Mechanical Engineering Related Technologies/Technicians",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1902",
+    "name":"Family and Consumer Sciences/Human Sciences Business Services",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1907",
+    "name":"Human Development, Family Studies, and Related Services.",
+    "parent_id":"243780"
+    },
+    {
+    "id":"2313",
+    "name":"Rhetoric and Composition/Writing Studies",
+    "parent_id":"243780"
+    },
+    {
+    "id":"2401",
+    "name":"Liberal Arts and Sciences, General Studies and Humanities",
+    "parent_id":"243780"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"243780"
+    },
+    {
+    "id":"2705",
+    "name":"Statistics",
+    "parent_id":"243780"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"243780"
+    },
+    {
+    "id":"4005",
+    "name":"Chemistry",
+    "parent_id":"243780"
+    },
+    {
+    "id":"4227",
+    "name":"Research and Experimental Psychology",
+    "parent_id":"243780"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"243780"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"243780"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"243780"
+    },
+    {
+    "id":"4901",
+    "name":"Air Transportation",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5004",
+    "name":"Design and Applied Arts",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5102",
+    "name":"Communication Disorders Sciences and Services",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5122",
+    "name":"Public Health",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5131",
+    "name":"Dietetics and Clinical Nutrition Services",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5199",
+    "name":"Health Professions and Related Clinical Sciences, Other",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5209",
+    "name":"Hospitality Administration/Management",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5213",
+    "name":"Management Sciences and Quantitative Methods",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5218",
+    "name":"General Sales, Merchandising and Related Marketing Operations",
+    "parent_id":"243780"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"243780"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"148487"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"148487"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"148487"
+    },
+    {
+    "id":"2203",
+    "name":"Legal Support Services",
+    "parent_id":"148487"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"148487"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"148487"
+    },
+    {
+    "id":"3033",
+    "name":"Sustainability Studies",
+    "parent_id":"148487"
+    },
+    {
+    "id":"3099",
+    "name":"Multi/Interdisciplinary Studies, Other",
+    "parent_id":"148487"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"148487"
+    },
+    {
+    "id":"4301",
+    "name":"Criminal Justice and Corrections",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5005",
+    "name":"Drama/Theatre Arts and Stagecraft",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5009",
+    "name":"Music",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5205",
+    "name":"Business/Corporate Communications",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5209",
+    "name":"Hospitality Administration/Management",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5210",
+    "name":"Human Resources Management and Services",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5213",
+    "name":"Management Sciences and Quantitative Methods",
+    "parent_id":"148487"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"148487"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"144050"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"144050"
+    },
+    {
+    "id":"2701",
+    "name":"Mathematics",
+    "parent_id":"144050"
+    },
+    {
+    "id":"3801",
+    "name":"Philosophy",
+    "parent_id":"144050"
+    },
+    {
+    "id":"4008",
+    "name":"Physics",
+    "parent_id":"144050"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"144050"
+    },
+    {
+    "id":"4227",
+    "name":"Research and Experimental Psychology",
+    "parent_id":"144050"
+    },
+    {
+    "id":"4405",
+    "name":"Public Policy Analysis",
+    "parent_id":"144050"
+    },
+    {
+    "id":"4502",
+    "name":"Anthropology",
+    "parent_id":"144050"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"144050"
+    },
+    {
+    "id":"4509",
+    "name":"International Relations and National Security Studies",
+    "parent_id":"144050"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"144050"
+    },
+    {
+    "id":"0402",
+    "name":"Architecture",
+    "parent_id":"145600"
+    },
+    {
+    "id":"0502",
+    "name":"Ethnic, Cultural Minority, Gender, and Group Studies",
+    "parent_id":"145600"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1104",
+    "name":"Information Science/Studies",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1405",
+    "name":"Biomedical/Medical Engineering",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1407",
+    "name":"Chemical Engineering",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1435",
+    "name":"Industrial Engineering",
+    "parent_id":"145600"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"145600"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"145600"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"145600"
+    },
+    {
+    "id":"2602",
+    "name":"Biochemistry, Biophysics and Molecular Biology",
+    "parent_id":"145600"
+    },
+    {
+    "id":"2701",
+    "name":"Mathematics",
+    "parent_id":"145600"
+    },
+    {
+    "id":"3008",
+    "name":"Mathematics and Computer Science",
+    "parent_id":"145600"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"145600"
+    },
+    {
+    "id":"4005",
+    "name":"Chemistry",
+    "parent_id":"145600"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"145600"
+    },
+    {
+    "id":"4301",
+    "name":"Criminal Justice and Corrections",
+    "parent_id":"145600"
+    },
+    {
+    "id":"4502",
+    "name":"Anthropology",
+    "parent_id":"145600"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"145600"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"145600"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"145600"
+    },
+    {
+    "id":"4512",
+    "name":"Urban Studies/Affairs",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5004",
+    "name":"Design and Applied Arts",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5007",
+    "name":"Fine and Studio Arts",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5107",
+    "name":"Health and Medical Administrative Services",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5122",
+    "name":"Public Health",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5131",
+    "name":"Dietetics and Clinical Nutrition Services",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5213",
+    "name":"Management Sciences and Quantitative Methods",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"145600"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"145600"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"148654"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"148654"
+    },
+    {
+    "id":"2401",
+    "name":"Liberal Arts and Sciences, General Studies and Humanities",
+    "parent_id":"148654"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"148654"
+    },
+    {
+    "id":"4301",
+    "name":"Criminal Justice and Corrections",
+    "parent_id":"148654"
+    },
+    {
+    "id":"4407",
+    "name":"Social Work",
+    "parent_id":"148654"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"148654"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"148654"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"148654"
+    },
+    {
+    "id":"0101",
+    "name":"Agricultural Business and Management",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0109",
+    "name":"Animal Sciences",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0110",
+    "name":"Food Science and Technology",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0111",
+    "name":"Plant Sciences",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0301",
+    "name":"Natural Resources Conservation and Research",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0402",
+    "name":"Architecture",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0501",
+    "name":"Area Studies",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0904",
+    "name":"Journalism",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0909",
+    "name":"Public Relations, Advertising, and Applied Communication",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1107",
+    "name":"Computer Science",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1401",
+    "name":"Engineering, General",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1402",
+    "name":"Aerospace, Aeronautical and Astronautical Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1403",
+    "name":"Agricultural Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1405",
+    "name":"Biomedical/Medical Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1407",
+    "name":"Chemical Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1412",
+    "name":"Engineering Physics",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1418",
+    "name":"Materials Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1423",
+    "name":"Nuclear Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1435",
+    "name":"Industrial Engineering",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"145637"
+    },
+    {
+    "id":"1907",
+    "name":"Human Development, Family Studies, and Related Services",
+    "parent_id":"145637"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"145637"
+    },
+    {
+    "id":"2313",
+    "name":"Rhetoric and Composition/Writing Studies",
+    "parent_id":"145637"
+    },
+    {
+    "id":"2604",
+    "name":"Cell/Cellular Biology and Anatomical Sciences",
+    "parent_id":"145637"
+    },
+    {
+    "id":"2699",
+    "name":"Biological and Biomedical Sciences, Other",
+    "parent_id":"145637"
+    },
+    {
+    "id":"2701",
+    "name":"Mathematics",
+    "parent_id":"145637"
+    },
+    {
+    "id":"2705",
+    "name":"Statistics",
+    "parent_id":"145637"
+    },
+    {
+    "id":"3006",
+    "name":"Systems Science and Theory",
+    "parent_id":"145637"
+    },
+    {
+    "id":"3101",
+    "name":"Parks, Recreation and Leisure Studies",
+    "parent_id":"145637"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4004",
+    "name":"Atmospheric Sciences and Meteorology",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4005",
+    "name":"Chemistry",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4006",
+    "name":"Geological and Earth Sciences/Geosciences",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4008",
+    "name":"Physics",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4502",
+    "name":"Anthropology",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4507",
+    "name":"Geography and Cartography",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"145637"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5004",
+    "name":"Design and Applied Arts",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5100",
+    "name":"Health Services/Allied Health/Health Sciences, General",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5102",
+    "name":"Communication Disorders Sciences and Services",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5122",
+    "name":"Public Health",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5212",
+    "name":"Management Information Systems and Services",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5213",
+    "name":"Management Sciences and Quantitative Methods",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"145637"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"145637"
+    },
+    {
+    "id":"0301",
+    "name":"Natural Resources Conservation and Research",
+    "parent_id":"170976"
+    },
+    {
+    "id":"0402",
+    "name":"Architecture",
+    "parent_id":"170976"
+    },
+    {
+    "id":"0501",
+    "name":"Area Studies",
+    "parent_id":"170976"
+    },
+    {
+    "id":"0502",
+    "name":"Ethnic, Cultural Minority, Gender, and Group Studies",
+    "parent_id":"170976"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1104",
+    "name":"Information Science/Studies",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1402",
+    "name":"Aerospace, Aeronautical and Astronautical Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1405",
+    "name":"Biomedical/Medical Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1407",
+    "name":"Chemical Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1414",
+    "name":"Environmental/Environmental Health Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1418",
+    "name":"Materials Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1422",
+    "name":"Naval Architecture and Marine Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1423",
+    "name":"Nuclear Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1435",
+    "name":"Industrial Engineering",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1601",
+    "name":"Linguistic, Comparative, and Related Language Studies and Services",
+    "parent_id":"170976"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"170976"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"170976"
+    },
+    {
+    "id":"2401",
+    "name":"Liberal Arts and Sciences, General Studies and Humanities",
+    "parent_id":"170976"
+    },
+    {
+    "id":"2602",
+    "name":"Biochemistry, Biophysics and Molecular Biology",
+    "parent_id":"170976"
+    },
+    {
+    "id":"2604",
+    "name":"Cell/Cellular Biology and Anatomical Sciences",
+    "parent_id":"170976"
+    },
+    {
+    "id":"2613",
+    "name":"Ecology, Evolution, Systematics, and Population Biology",
+    "parent_id":"170976"
+    },
+    {
+    "id":"2615",
+    "name":"Neurobiology and Neurosciences",
+    "parent_id":"170976"
+    },
+    {
+    "id":"2701",
+    "name":"Mathematics",
+    "parent_id":"170976"
+    },
+    {
+    "id":"2705",
+    "name":"Statistics",
+    "parent_id":"170976"
+    },
+    {
+    "id":"3020",
+    "name":"International/Global Studies",
+    "parent_id":"170976"
+    },
+    {
+    "id":"3099",
+    "name":"Multi/Interdisciplinary Studies, Other",
+    "parent_id":"170976"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"170976"
+    },
+    {
+    "id":"3801",
+    "name":"Philosophy",
+    "parent_id":"170976"
+    },
+    {
+    "id":"4006",
+    "name":"Geological and Earth Sciences/Geosciences",
+    "parent_id":"170976"
+    },
+    {
+    "id":"4227",
+    "name":"Research and Experimental Psychology",
+    "parent_id":"170976"
+    },
+    {
+    "id":"4405",
+    "name":"Public Policy Analysis",
+    "parent_id":"170976"
+    },
+    {
+    "id":"4502",
+    "name":"Anthropology",
+    "parent_id":"170976"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"170976"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"170976"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"170976"
+    },
+    {
+    "id":"5005",
+    "name":"Drama/Theatre Arts and Stagecraft",
+    "parent_id":"170976"
+    },
+    {
+    "id":"5006",
+    "name":"Film/Video and Photographic Arts",
+    "parent_id":"170976"
+    },
+    {
+    "id":"5007",
+    "name":"Fine and Studio Arts",
+    "parent_id":"170976"
+    },
+    {
+    "id":"5009",
+    "name":"Music",
+    "parent_id":"170976"
+    },
+    {
+    "id":"5106",
+    "name":"Dental Support Services and Allied Professions",
+    "parent_id":"170976"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"170976"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"170976"
+    },
+    {
+    "id":"5210",
+    "name":"Human Resources Management and Services",
+    "parent_id":"170976"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"170976"
+    },
+    {
+    "id":"0101",
+    "name":"Agricultural Business and Management",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0108",
+    "name":"Agricultural Public Services",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0109",
+    "name":"Animal Sciences",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0110",
+    "name":"Food Science and Technology",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0111",
+    "name":"Plant Sciences",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0301",
+    "name":"Natural Resources Conservation and Research",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0306",
+    "name":"Wildlife and Wildlands Science and Management",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0501",
+    "name":"Area Studies",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0502",
+    "name":"Ethnic, Cultural Minority, Gender, and Group Studies",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0904",
+    "name":"Journalism",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1310",
+    "name":"Special Education and Teaching",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1403",
+    "name":"Agricultural Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1405",
+    "name":"Biomedical/Medical Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1407",
+    "name":"Chemical Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1418",
+    "name":"Materials Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1423",
+    "name":"Nuclear Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1435",
+    "name":"Industrial Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1439",
+    "name":"Geological/Geophysical Engineering",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1603",
+    "name":"East Asian Languages, Literatures, and Linguistics",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1907",
+    "name":"Human Development, Family Studies, and Related Services",
+    "parent_id":"240444"
+    },
+    {
+    "id":"1909",
+    "name":"Apparel and Textiles",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2200",
+    "name":"Non-Professional General Legal Studies",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2602",
+    "name":"Biochemistry, Biophysics and Molecular Biology",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2605",
+    "name":"Microbiological Sciences and Immunology",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2607",
+    "name":"Zoology/Animal Biology",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2608",
+    "name":"Genetics",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2613",
+    "name":"Ecology, Evolution, Systematics, and Population Biology",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2701",
+    "name":"Mathematics",
+    "parent_id":"240444"
+    },
+    {
+    "id":"2705",
+    "name":"Statistics",
+    "parent_id":"240444"
+    },
+    {
+    "id":"3019",
+    "name":"Nutrition Sciences",
+    "parent_id":"240444"
+    },
+    {
+    "id":"3020",
+    "name":"International/Global Studies",
+    "parent_id":"240444"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"240444"
+    },
+    {
+    "id":"3801",
+    "name":"Philosophy",
+    "parent_id":"240444"
+    },
+    {
+    "id":"4005",
+    "name":"Chemistry",
+    "parent_id":"240444"
+    },
+    {
+    "id":"4006",
+    "name":"Geological and Earth Sciences/Geosciences",
+    "parent_id":"240444"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"240444"
+    },
+    {
+    "id":"4407",
+    "name":"Social Work",
+    "parent_id":"240444"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"240444"
+    },
+    {
+    "id":"4507",
+    "name":"Geography and Cartography",
+    "parent_id":"240444"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"240444"
+    },
+    {
+    "id":"4511",
+    "name":"Sociology",
+    "parent_id":"240444"
+    },
+    {
+    "id":"4514",
+    "name":"Rural Sociology",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5004",
+    "name":"Design and Applied Arts",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5005",
+    "name":"Drama/Theatre Arts and Stagecraft",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5007",
+    "name":"Fine and Studio Arts",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5123",
+    "name":"Rehabilitation and Therapeutic Professions",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5211",
+    "name":"International Business",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5213",
+    "name":"Management Sciences and Quantitative Methods",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5215",
+    "name":"Real Estate",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5217",
+    "name":"Insurance",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5218",
+    "name":"General Sales, Merchandising and Related Marketing Operations",
+    "parent_id":"240444"
+    },
+    {
+    "id":"5401",
+    "name":"History",
+    "parent_id":"240444"
+    },
+    {
+    "id":"0109",
+    "name":"Animal Sciences",
+    "parent_id":"240462"
+    },
+    {
+    "id":"0111",
+    "name":"Plant Sciences",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1099",
+    "name":"Communications Technologies/Technicians and Support Services, Other",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1101",
+    "name":"Computer and Information Sciences, General",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1313",
+    "name":"Teacher Education and Professional Development, Specific Subject Areas",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1409",
+    "name":"Computer Engineering",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1412",
+    "name":"Engineering Physics",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1414",
+    "name":"Environmental/Environmental Health Engineering",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1435",
+    "name":"Industrial Engineering",
+    "parent_id":"240462"
+    },
+    {
+    "id":"1506",
+    "name":"Industrial Production Technologies/Technicians",
+    "parent_id":"240462"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"240462"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"240462"
+    },
+    {
+    "id":"4301",
+    "name":"Criminal Justice and Corrections",
+    "parent_id":"240462"
+    },
+    {
+    "id":"5007",
+    "name":"Fine and Studio Arts",
+    "parent_id":"240462"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"240462"
+    },
+    {
+    "id":"5203",
+    "name":"Accounting and Related Services",
+    "parent_id":"240462"
+    },
+    {
+    "id":"0901",
+    "name":"Communication and Media Studies",
+    "parent_id":"152600"
+    },
+    {
+    "id":"1312",
+    "name":"Teacher Education and Professional Development, Specific Levels and Methods",
+    "parent_id":"152600"
+    },
+    {
+    "id":"1408",
+    "name":"Civil Engineering",
+    "parent_id":"152600"
+    },
+    {
+    "id":"1410",
+    "name":"Electrical, Electronics and Communications Engineering",
+    "parent_id":"152600"
+    },
+    {
+    "id":"1419",
+    "name":"Mechanical Engineering",
+    "parent_id":"152600"
+    },
+    {
+    "id":"1609",
+    "name":"Romance Languages, Literatures, and Linguistics",
+    "parent_id":"152600"
+    },
+    {
+    "id":"2301",
+    "name":"English Language and Literature, General",
+    "parent_id":"152600"
+    },
+    {
+    "id":"2601",
+    "name":"Biology, General",
+    "parent_id":"152600"
+    },
+    {
+    "id":"3105",
+    "name":"Health and Physical Education/Fitness",
+    "parent_id":"152600"
+    },
+    {
+    "id":"4004",
+    "name":"Atmospheric Sciences and Meteorology",
+    "parent_id":"152600"
+    },
+    {
+    "id":"4201",
+    "name":"Psychology, General",
+    "parent_id":"152600"
+    },
+    {
+    "id":"4504",
+    "name":"Criminology",
+    "parent_id":"152600"
+    },
+    {
+    "id":"4506",
+    "name":"Economics",
+    "parent_id":"152600"
+    },
+    {
+    "id":"4510",
+    "name":"Political Science and Government",
+    "parent_id":"152600"
+    },
+    {
+    "id":"5107",
+    "name":"Health and Medical Administrative Services",
+    "parent_id":"152600"
+    },
+    {
+    "id":"5138",
+    "name":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "parent_id":"152600"
+    },
+    {
+    "id":"5202",
+    "name":"Business Administration, Management and Operations",
+    "parent_id":"152600"
+    },
+    {
+    "id":"5208",
+    "name":"Finance and Financial Management Services",
+    "parent_id":"152600"
+    },
+    {
+    "id":"5214",
+    "name":"Marketing",
+    "parent_id":"152600"
+    }
+]

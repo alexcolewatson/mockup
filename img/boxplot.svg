@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="529.999" height="121" viewBox="0 0 529.999 121">
+  <defs>
+    <filter id="Left_Line" x="0" y="26" width="44" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dx="-6" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-opacity="0.851"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mid_Line" x="242.996" y="0" width="44" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dx="-6" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-2"/>
+      <feFlood flood-opacity="0.851"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Right_Line" x="485.999" y="26" width="44" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dx="-6" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-3"/>
+      <feFlood flood-opacity="0.851"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_11" x="0.5" y="38" width="527" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dx="-6" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-4"/>
+      <feFlood flood-opacity="0.851"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Graph" transform="translate(26 13.5)" opacity="0.999">
+    <g transform="matrix(1, 0, 0, 1, -26, -13.5)" filter="url(#Left_Line)">
+      <line id="Left_Line-2" data-name="Left Line" y2="32" transform="translate(28 39.5)" fill="none" stroke="#38bae5" stroke-width="5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -26, -13.5)" filter="url(#Mid_Line)">
+      <line id="Mid_Line-2" data-name="Mid Line" y2="82" transform="translate(271 13.5)" fill="none" stroke="#38bae5" stroke-width="5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -26, -13.5)" filter="url(#Right_Line)">
+      <line id="Right_Line-2" data-name="Right Line" y2="32" transform="translate(514 39.5)" fill="none" stroke="#38bae5" stroke-width="5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -26, -13.5)" filter="url(#Rectangle_11)">
+      <rect id="Rectangle_11-2" data-name="Rectangle 11" width="488" height="8" transform="translate(26 51.5)" fill="#38bae5" opacity="0.998"/>
+    </g>
+    <line id="Mid_Line-3" data-name="Mid Line" y2="82" transform="translate(244.996)" fill="none" stroke="#38bae5" stroke-width="5"/>
+    <line id="Right_Line-3" data-name="Right Line" y2="32" transform="translate(487.999 26)" fill="none" stroke="#38bae5" stroke-width="5"/>
+    <line id="Left_Line-3" data-name="Left Line" y2="32" transform="translate(2 26)" fill="none" stroke="#38bae5" stroke-width="5"/>
+    <line id="Mid_Line-4" data-name="Mid Line" y2="82" transform="translate(244.996)" fill="none" stroke="#38bae5" stroke-width="5"/>
+  </g>
+</svg>
