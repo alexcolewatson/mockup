@@ -74,27 +74,40 @@ function handleSelectCollege(ev) { //sets id to be used in the api call to the i
     
     //adds the general college earnings and debt information to the html file
     collegeJson.results.forEach((college) => salary25 = `${college.earnings_25}`)
-    updatedSalary25 = '$' + salary25;
+    let salary25SubString1 = salary25.substring(0,2);
+    let salary25SubString2 = salary25.substring(2,5);
+    let updatedSalary25 = '$' + salary25SubString1 + ',' + salary25SubString2;
     document.querySelector('.salary25').textContent = `${updatedSalary25}`
 
     collegeJson.results.forEach((college) => salary75 = `${college.earnings_75}`)
-    updatedSalary75 = '$' + salary75;
+    let salary75SubString1 = salary75.substring(0,2);
+    let salary75SubString2 = salary75.substring(2,5);
+    let updatedSalary75 = '$' + salary75SubString1 + ',' + salary75SubString2;
     document.querySelector('.salary75').textContent = `${updatedSalary75}`
 
     collegeJson.results.forEach((college) => medianSalary = `${college.earnings_median}`)
-    updatedMedianSalary = '$' + medianSalary;
+    let medianSalarySubString1 = medianSalary.substring(0,2);
+    let medianSalarySubString2 = medianSalary.substring(2,5);
+    let updatedMedianSalary = '$' + medianSalarySubString1 + ',' + medianSalarySubString2;
     document.querySelector('.salaryMedian').textContent = `${updatedMedianSalary}`
 
     collegeJson.results.forEach((college) => aid25 = `${college.debt_25}`)
-    updatedAid25 = '$' + aid25;
+    console.log(typeof aid25)
+    let aid25SubString1 = aid25.substring(0,2);
+    let aid25SubString2 = aid25.substring(2,5);
+    let updatedAid25 = '$' + aid25SubString1 + ',' + aid25SubString2;
     document.querySelector('.aid25').textContent = `${updatedAid25}`
 
     collegeJson.results.forEach((college) => aid75 = `${college.debt_75}`)
-    updatedAid75 = '$' + aid75;
+    let aid75SubString1 = aid75.substring(0,2);
+    let aid75SubString2 = aid75.substring(2,5);
+    let updatedAid75 = '$' + aid75SubString1 + ',' + aid75SubString2;
     document.querySelector('.aid75').textContent = `${updatedAid75}`
 
     collegeJson.results.forEach((college) => aidMedian = `${college.debt_median}`)
-    updatedAidMedian = '$' + aidMedian;
+    let aidMedianSubString1 = aidMedian.substring(0,2);
+    let aidMedianSubString2 = aidMedian.substring(2,5);
+    let updatedAidMedian = '$' + aidMedianSubString1 + ',' + aidMedianSubString2;
     document.querySelector('.aidMedian').textContent = `${updatedAidMedian}`
 
     document.querySelector('.program-median').textContent = `${''}`
