@@ -92,11 +92,17 @@ function handleSelectCollege(ev) { //sets id to be used in the api call to the i
     document.querySelector('.salaryMedian').textContent = `${updatedMedianSalary}`
 
     collegeJson.results.forEach((college) => aid25 = `${college.debt_25}`)
-    console.log(typeof aid25)
-    let aid25SubString1 = aid25.substring(0,2);
-    let aid25SubString2 = aid25.substring(2,5);
-    let updatedAid25 = '$' + aid25SubString1 + ',' + aid25SubString2;
-    document.querySelector('.aid25').textContent = `${updatedAid25}`
+    if (aid25.length === 5) {
+        let aid25SubString1 = aid25.substring(0,2);
+        let aid25SubString2 = aid25.substring(2,5);
+        let updatedAid25 = '$' + aid25SubString1 + ',' + aid25SubString2;
+        document.querySelector('.aid25').textContent = `${updatedAid25}`
+    } else {
+        let aid25SubString1 = aid25.substring(0,1);
+        let aid25SubString2 = aid25.substring(1,4);
+        let updatedAid25 = '$' + aid25SubString1 + ',' + aid25SubString2;
+        document.querySelector('.aid25').textContent = `${updatedAid25}`
+    }
 
     collegeJson.results.forEach((college) => aid75 = `${college.debt_75}`)
     let aid75SubString1 = aid75.substring(0,2);
