@@ -184,9 +184,14 @@ function handleSelectMajor(ev) { //sets code to be used in the api call to the c
         let payDifferenceSubStr2 = payDifferenceStr.substring(1,4);
         let payDifference = '$' + payDifferenceSubStr1 + ',' + payDifferenceSubStr2;
         document.querySelector('.income-difference').textContent = `${payDifference}`
-    } else if (payDifferenceInitialRounded > 0) {
+    } else if (payDifferenceStr.length === 5 && payDifferenceInitialRounded > 0) {
         let payDifferenceSubStr1 = payDifferenceStr.substring(0,2);
         let payDifferenceSubStr2 = payDifferenceStr.substring(2,5);
+        let payDifference = '$' + payDifferenceSubStr1 + ',' + payDifferenceSubStr2;
+        document.querySelector('.income-difference').textContent = `${payDifference}`
+    } else if (payDifferenceInitialRounded > 0) {
+        let payDifferenceSubStr1 = payDifferenceStr.substring(0,3);
+        let payDifferenceSubStr2 = payDifferenceStr.substring(3,6);
         let payDifference = '$' + payDifferenceSubStr1 + ',' + payDifferenceSubStr2;
         document.querySelector('.income-difference').textContent = `${payDifference}`
     } else if (payDifferenceStr.length === 5 && payDifferenceInitialRounded < 0) {
