@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mockup</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/gve1vpd.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="dropdown.js" defer></script>
+  </head>
+  <body>
+    <div class="header">
+        <img src="img/header.svg">
+    </div>
+    
+    <div class="hero">
+        <div class="hero-text">
+            <h1>Mattis en tellus elementum? Ornare quam viverra orci sagittis.</h1>
+            <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum!</p>
+        </div>
+        <div class="hero-select">
+            <select class="dropDown" name="college" id="college">
+                <option value="">College</option>
+            </select>
+            <select class="dropDown" name="major" id="major">
+                <option>Major</option>
+                <option value="">Select college first</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="displayDataContainer">
+        <div class="dataContainer">
+
+            <div class="dataTitle">
+                <h2>Estimated Income</h2>
+            </div>
+            <div class="percentile">
+                <p class="dataText">25th</p>
+                <p class="dataText">75th</p>
+            </div>
+            <div class="boxplot"><img src="img/boxplot.svg" alt="boxplot"></div>
+            <div class="percentile num">
+                <p class="salary25 dataNum"></p>
+                <p class="salary75 dataNum"></p>
+            </div>
+            <div class="dataTitle">
+                <h2 class="dataNum">Median College Income</h2>
+                <p class="salaryMedian medianNum"></p>
+            </div>
+            
+            <hr class="solid">
+            <div class="dataMajor">
+                <h2 class="dataNum">Major Median Income:</h2>
+                <p class="program-median dataNum"></p>
+            </div>
+            <hr class="solid">
+
+            <div class="dataTitle">
+                <h2>Estimated Debt</h2>
+            </div>
+            <div class="percentile">
+                <p class="dataText">25th</p>
+                <p class="dataText">75th</p>
+            </div>
+            <div class="boxplot">
+                <img src="img/boxplot.svg" alt="boxplot">
+            </div>
+            <div class="percentile num">
+                <p class="aid25 dataNum"></p>
+                <p class="aid75 dataNum"></p>
+            </div>
+            <div class="dataTitle">
+                <h2 class="dataNum">Median College Debt</h2>
+                <p class="aidMedian medianNum"></p>
+            </div>
+            
+        </div>
+        
+        <div class="displayDataContainer">
+            <div class="dataContainer">
+                <div class="dataTitle">
+                    <h2 class="dataNum">College Income</h2>
+                    <p class="college-income medianNum"></p>
+                </div>
+                <div class="dataTitle">
+                    <h2 class="dataNum">High School Income</h2>
+                    <p class="highschool-income medianNum"></p>
+                </div>
+                <div class="dataTitle">
+                    <h2 class="dataNum">Income Difference</h2>
+                    <p class="income-difference medianNum"></p>
+                </div>
+                <div class="dataTitle">
+                    <h2 class="dataNum">Does College Pay?</h2>
+                    <p class="doesCollegePay medianNum" id="pay"></p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="footer">
+        <img src="img/footer.png">
+    </div>
+
+  </body>
+</html>

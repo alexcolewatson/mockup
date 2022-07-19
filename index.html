@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">  
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,82 +13,188 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="dropdown.js" defer></script>
   </head>
-  <body>
-    <div class="header">
-        <img src="img/header.svg">
-    </div>
-    
-    <div class="hero">
-        <div class="hero-text">
-            <h1>Mattis en tellus elementum? Ornare quam viverra orci sagittis.</h1>
-            <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum!</p>
-        </div>
-        <div class="hero-select">
-            <select class="dropDown" name="college" id="college">
-                <option value="">College</option>
-            </select>
-            <select class="dropDown" name="major" id="major">
-                <option>Major</option>
-                <option value="">Select college first</option>
-            </select>
-        </div>
-    </div>
+<body>
+ 
 
-    <div class="displayDataContainer">
-        <div class="dataContainer">
 
-            <div class="dataTitle">
-                <h2>Estimated Income</h2>
-            </div>
-            <div class="percentile">
-                <p class="dataText">25th</p>
-                <p class="dataText">75th</p>
-            </div>
-            <div class="boxplot"><img src="img/boxplot.svg" alt="boxplot"></div>
-            <div class="percentile num">
-                <p class="salary25 dataNum"></p>
-                <p class="salary75 dataNum"></p>
-            </div>
-            <div class="dataTitle">
-                <h2 class="dataNum">Median College Income</h2>
-                <p class="salaryMedian medianNum"></p>
-            </div>
-            
-            <hr class="solid">
-            <div class="dataMajor">
-                <h2 class="dataNum">Major Median Income:</h2>
-                <p class="program-median dataNum"></p>
-            </div>
-            <hr class="solid">
 
-            <div class="dataTitle">
-                <h2>Estimated Debt</h2>
+    <main>
+        <!--========    Hero     ========-->
+        <section id="hero">
+            <div class="hero-content">
+                <div class ="heroText">
+                    <h1 id="homeH1">
+                        Is college worth it?
+                    </h1>
+                    <p>
+                        If you want to find out if college is worth it, you've come to the right place. With this simple tool, you can input your college and  major to see how it compares to a high school diploma. You'll also learn how much salary you'll earn and debt you can expect to be in.
+                    </p>
+                </div>
             </div>
-            <div class="percentile">
-                <p class="dataText">25th</p>
-                <p class="dataText">75th</p>
-            </div>
-            <div class="boxplot">
-                <img src="img/boxplot.svg" alt="boxplot">
-            </div>
-            <div class="percentile num">
-                <p class="aid25 dataNum"></p>
-                <p class="aid75 dataNum"></p>
-            </div>
-            <div class="dataTitle">
-                <h2 class="dataNum">Median College Debt</h2>
-                <p class="aidMedian medianNum"></p>
-            </div>
-            
-        </div>
+            <picture>
+                <img aria-hidden="true" src="images/hero.jpg" alt="hero">
+             </picture>
+
         
+        </section>
+ 
+
+        <!--========    Step 1 Card     ========-->
+           
+        <section id="steps" class="card1">
+            <!--===     left    ==-->
+            <div class="container">
+                <div class="content">
+                    <div class="steps">
+                    <h2 class="content"></h2>
+                    <p class="font25"> Step 1: choose a college.
+                        
+                    </p>
+                    <select class="dropDown" name="college" id="college">
+                        <option value="">College</option>
+                    </select>
+                    </div>
+                    <p> In this section this tool gathers the selected college's income and debt averages.
+                    </p>
+                    <img class="undraw" aria-hidden="true" src="images/building.svg" max-width="300px">
+                </div>
+                
+                   
+                
+            </div>
 
 
-    </div>
+                    <!--===     right    ==-->
+                    <div class="infoContainer">
+                            <p class="font25 income">Estimated Income<p>
 
-    <div class="footer">
-        <img src="img/footer.png">
-    </div>
+                       
+                        
 
-  </body>
+                        <div class="graph">
+                            <div class="percentile">
+                                <p class="font18">25th</p>
+                                <p class = "font18">75th</p>
+                            </div>
+                        <div class="boxplot"><img aria-hidden="true" src="images/boxplot.svg" alt="boxplot"></div>
+                        <div class="percentile">
+                            <p class="salary25 font18"></p>
+                            <p class="salary75 font18"></p>
+                        </div>
+                    </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        <div class="dataTitle">
+                            <p class="font25">Median College Income</p>
+                            <p class="salaryMedian font25"></p>
+                        </div>
+                        
+
+                        <hr class="solid">
+            
+                        <div class="dataTitle">
+                            <p class="font25">Estimated Debt</p>
+                        </div>                       
+                        <div class="graph">
+                            <div class="percentile">
+                                <p class="font18">25th</p>
+                                <p class="font18">75th</p>
+                            </div>
+                            <div class="boxplot"><img aria-hidden="true" src="images/boxplot.svg" alt="boxplot"></div>
+                            <div class="percentile">
+                                <p class="aid25 font18"></p>
+                                <p class="aid75 font18"></p>
+                            </div>
+                        </div>
+
+                        <div class="dataTitle">
+                            <p class="font25">Median College Debt</p>
+                            <p class="aidMedian font25"></p>
+                        </div>
+                    </div>
+                    
+                
+               
+        </section>
+
+        <!--========    Step 2 Card     ========-->
+        <section id="steps" class="reverse">
+            <!--===     left    ==-->
+            <div class="majorContainer">
+              
+                
+                    <p class="font25">Major Median Income</p>
+                    <p class="program-median font25"></p>
+                
+
+                
+        </div>
+        <!--===     right    ==-->
+        <div class="container">
+            <div class="content">
+                <div class="steps">
+                <h2 class="content"></h2>
+                <p class="font25"> Step 2: choose a major.
+                    
+                </p>
+                <select class="dropDown" name="major" id="major">
+                    <option>Major</option>
+                    <option value="">Select college first</option>
+                </select>
+                </div>
+                <p> Lorem ipsum 
+                    dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                </p>
+            </div>
+            
+               
+            
+        </div>
+
+
+
+        </section>         
+
+        <!--========    Step 3 Card     ========-->
+           
+        <section id="steps">
+            <!--===     left    ==-->
+            <div class="container">
+                <div class="content">
+                    <div class="steps">
+                    <h2 class="font25"> Step 3: Does College Pay?.</h2>
+                    <p class="doesCollegePay" id="pay"></p>
+                    </div>
+                    <p> Lorem ipsum 
+                        dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    </p>
+                    <img class="undraw" aria-hidden="true" src="images/birds.svg" width="300px">
+                </div>
+            </div>
+
+            <!--===     right    ==-->
+            <div class="infoContainer">
+                <p class="font25 income">College Income<p>
+                    <p class="college-income font18"></p>
+                    
+                    <hr class="solid">
+
+                <p class="font25 income">Highscool Income<p>
+                    <p class="highschool-income font18"></p>
+
+                    <hr class="solid">
+
+                <p class="font25 income">Income Difference<p>
+                    <p class="income-difference font18"></p>
+            </div>
+
+        </section>
+
+    </main>
+
+</body>
 </html>

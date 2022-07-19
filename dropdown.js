@@ -40,6 +40,10 @@ $(document).ready(function(){ //populates the college and major dropdowns
 });
 
 var id;
+var highSchoolIncomeNum = 34900;
+var highSchoolIncomeStr = '$34,900';
+var avgEffectiveInterestRate = 0.058 / 12;
+var avgLoanTerm = -120;
 
 document.addEventListener('DOMContentLoaded', () => {
     document
@@ -118,6 +122,7 @@ function handleSelectCollege(ev) { //sets id to be used in the api call to the i
 
     document.querySelector('.program-median').textContent = `${''}`
     });
+
     return id;
 }
 
@@ -134,10 +139,76 @@ function handleSelectMajor(ev) { //sets code to be used in the api call to the c
         .then(dataMajor => {
             
     let majorOutputString = JSON.stringify(dataMajor); //converts the json selection to a string
-    let majorOutputSubString1 = majorOutputString.substring(147,150); //cuts out the desired numbers from the string
-    let majorOutputSubString2 = majorOutputString.substring(150,153);
-    let majorOutputAppendString = '$' + majorOutputSubString1 + ',' + majorOutputSubString2; //adds a dollar sign and comma
-    let majorOutputReplaceString = majorOutputAppendString.replace(':', '') //removes semicolons from 5 digit numbers
-    document.querySelector('.program-median').textContent = `${majorOutputReplaceString}` //adds the major median to the html file
+    let majorOutputSubString1 = majorOutputString.substring(148,151); 
+    let majorOutputSubString2 = majorOutputString.substring(151,154);
+    let majorOutputReplaceSubString = majorOutputSubString2.replace('}', ''); //removes bracket
+    if (majorOutputString.length === 162) {
+        let majorOutputAppendString = '$' + majorOutputSubString1 + ',' + majorOutputReplaceSubString; //adds a dollar sign and comma
+        document.querySelector('.program-median').textContent = `${majorOutputAppendString}` //adds the major median to the html file
+    } else {
+        let majorOutputSubString3 = majorOutputString.substring(148,150);
+        let majorOutputSubString4 = majorOutputString.substring(150,151);
+        let majorOutputAppendString = '$' + majorOutputSubString3 + ',' + majorOutputSubString4 + majorOutputReplaceSubString;
+        document.querySelector('.program-median').textContent = `${majorOutputAppendString}` //adds the major median to the html file
+    }
+    
+    let collegeAid1 = document.querySelector('.aidMedian').textContent;
+    let collegeAid2 = collegeAid1.replace(',', '');
+    let collegeAid3 = collegeAid2.replace('$', '');
+    let collegeAid4 = (collegeAid3 * (avgEffectiveInterestRate / (1 - (1 + avgEffectiveInterestRate) ** (avgLoanTerm)))) * 120;
+
+    let collegeIncomeInitial1 = majorOutputSubString1 + majorOutputReplaceSubString;
+    let collegeIncomeInitial2 = collegeIncomeInitial1.replace('}', '');
+    let collegeIncomeInitial3 = ((collegeIncomeInitial2 * 10) - collegeAid4) / 10;
+    let collegeIncomeInitialRounded = Math.round(collegeIncomeInitial3);
+    let collegeIncomeStr = collegeIncomeInitialRounded.toString();
+    if (collegeIncomeStr.length === 6) {
+        let collegeIncomeSubStr1 = collegeIncomeStr.substring(0,3);
+        let collegeIncomeSubStr2 = collegeIncomeStr.substring(3,6);
+        let collegeIncome = '$' + collegeIncomeSubStr1 + ',' + collegeIncomeSubStr2;
+        document.querySelector('.college-income').textContent = `${collegeIncome}`
+    } else {
+        let collegeIncomeSubStr1 = collegeIncomeStr.substring(0,2);
+        let collegeIncomeSubStr2 = collegeIncomeStr.substring(2,5);
+        let collegeIncome = '$' + collegeIncomeSubStr1 + ',' + collegeIncomeSubStr2;
+        document.querySelector('.college-income').textContent = `${collegeIncome}`
+    }
+    
+    document.querySelector('.highschool-income').textContent = `${highSchoolIncomeStr}`
+
+    let payDifferenceInitial = collegeIncomeInitial3 - highSchoolIncomeNum;
+    let payDifferenceInitialRounded = Math.round(payDifferenceInitial);
+    let payDifferenceStr = payDifferenceInitialRounded.toString();
+    if (payDifferenceStr.length === 4 && payDifferenceInitialRounded > 0) {
+        let payDifferenceSubStr1 = payDifferenceStr.substring(0,1);
+        let payDifferenceSubStr2 = payDifferenceStr.substring(1,4);
+        let payDifference = '$' + payDifferenceSubStr1 + ',' + payDifferenceSubStr2;
+        document.querySelector('.income-difference').textContent = `${payDifference}`
+    } else if (payDifferenceInitialRounded > 0) {
+        let payDifferenceSubStr1 = payDifferenceStr.substring(0,2);
+        let payDifferenceSubStr2 = payDifferenceStr.substring(2,5);
+        let payDifference = '$' + payDifferenceSubStr1 + ',' + payDifferenceSubStr2;
+        document.querySelector('.income-difference').textContent = `${payDifference}`
+    } else if (payDifferenceStr.length === 5 && payDifferenceInitialRounded < 0) {
+        let payDifferenceSubStr1 = payDifferenceStr.substring(1,2);
+        let payDifferenceSubStr2 = payDifferenceStr.substring(2,5);
+        let payDifference = '- $' + payDifferenceSubStr1 + ',' + payDifferenceSubStr2;
+        document.querySelector('.income-difference').textContent = `${payDifference}`
+    } else {
+        let payDifferenceSubStr1 = payDifferenceStr.substring(1,3);
+        let payDifferenceSubStr2 = payDifferenceStr.substring(3,6);
+        let payDifference = '- $' + payDifferenceSubStr1 + ',' + payDifferenceSubStr2;
+        document.querySelector('.income-difference').textContent = `${payDifference}`
+    }
+
+    if (collegeIncomeInitial3 > highSchoolIncomeNum) {
+        document.querySelector('.doesCollegePay').textContent = 'YES!';
+        document.getElementById('pay').style.color = 'green';
+    } else {
+        document.querySelector('.doesCollegePay').textContent = 'Unfortunately, no';
+        document.getElementById('pay').style.color = 'red';
+    }
+    
     })
 }
+
