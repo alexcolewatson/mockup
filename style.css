@@ -3,8 +3,6 @@ html {
   margin: 0;
   padding: 0;
   font-size: 100%;
-  /* font-family: 'Roboto', Arial, sans-serif;
-  color: var(--bodyText); */
   overflow-x: hidden;
 }
 
@@ -65,7 +63,7 @@ html {
     align-items: center;
     max-width: 600px;
     text-align: center;
-    margin: 2em;
+    margin: 1em;
     gap:1em;
   }
   .heroText p{
@@ -76,6 +74,8 @@ html {
     margin-left:    .5em;
     margin-right: .5em;
   }
+
+
   h1{
     color:black;
     font-size: 35px;
@@ -85,10 +85,12 @@ html {
 .graph {
     display: flex;
     flex-direction: column;
+
+    justify-content: center;
 }
 
 .card1 img{
-    margin-top: 20px;
+    margin-top: 10px;
 
 }
 
@@ -116,6 +118,7 @@ html {
     min-height: 581px;
  }
 
+
 main {
     display:flex;
     flex-direction: column;
@@ -126,22 +129,6 @@ main {
 
    
 }
-
- 
- /* .container{
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 3.125em 5em;
-    max-width: 32.3125em;
-    height: 405px;
-    background-color: #2D546B;
-    justify-content: space-evenly;
-    width: 700px;
-    height: 700px;
-    padding: 2em;
-    } */
-
 
 select, .doesCollegePay {
     display: flex;
@@ -160,18 +147,22 @@ select, .doesCollegePay {
     min-height: 45px;
     border-radius: 5px;
     box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.583);
-    margin: 12px;
 }
 
 .container {
-    flex-direction: row;
- 
+    flex-direction: column;
+    gap: 1em;
     width: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-items: center;
+    text-align: center;
 }
 
 .infoContainer{
     flex-direction: column;
-    
     width: 320px;
 }
 
@@ -190,12 +181,6 @@ select, .doesCollegePay {
 .undraw{
     height: 200px;
 }
-/* .waves {
-    display: flex;
-    height: 700px;
-    background-color: #2D546B;
-} */
-
 
 .infoContainer,
 .container {
@@ -203,19 +188,14 @@ select, .doesCollegePay {
     align-items: center;
     justify-content: space-evenly;
     color: #FFFFFF;
-    justify-content: space-evenly;
-    
+    justify-content: space-evenly; 
 }
-
-
 
 .dataTitle p{
     padding: .2em;
 }
 
-
-
-.font25 {
+.font20 {
     text-align: center;
     font-family: 'futura-pt',sans-serif;
     font-weight: 400;
@@ -230,9 +210,7 @@ select, .doesCollegePay {
     height: 30px;
 }
 
-
-
-.font18 {
+.font14 {
     display: flex;
     font-family: 'futura-pt',sans-serif;
     font-weight: 400;
@@ -286,18 +264,34 @@ hr.solid {
 
 @media only screen and (min-width: 0em) {
     main {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 5px;
+        padding-right: 5px;
      
     }
-    .majorContainer .font25{
+    .margin30{
         margin-bottom: 30px;
+    }
+
+    h1{
+        max-width: 158px;
+    }
+
+    hr.solid {
+        width: 75%;
+    }
+    .percentile p{
+        margin-left: 1em;
+        margin-right: 1em;
     }
 }
 
 @media only screen and (min-width: 336px) {
-    .majorContainer .font25{
+    .margin30{
         margin-bottom: 0;
+    }
+
+    h1{
+        max-width: 500px;
     }
 }
 
@@ -305,5 +299,9 @@ hr.solid {
     main {
         padding-left: 2em;
         padding-right: 2em;
+    }
+    .percentile p{
+        margin-left: 0;
+        margin-right: 0;
     }
 }
